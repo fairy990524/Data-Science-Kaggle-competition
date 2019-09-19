@@ -1,2 +1,4 @@
 # Data-Science-Kaggle-competition
-python
+## Kaggle competition link：
+* https://www.kaggle.com/c/ncu-course-game
+
