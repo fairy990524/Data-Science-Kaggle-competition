@@ -9,4 +9,4 @@
 * sequential_model：用處理完的資料丟進sequential model訓練得出結果
 
 ## Final Rank
-
+![image]https://github.com/fairy990524/Data-Science-Kaggle-competition/blob/master/rank.PNG
