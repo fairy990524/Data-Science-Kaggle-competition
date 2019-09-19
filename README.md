@@ -10,7 +10,7 @@
 * 嘗試過使用logistic regression，這樣訓練出來的結果是0.86左右
 * 後來使用sequential model，然後有用Dropout，每次的測試結果都不一樣，結果介在0.85-0.87之間
 
- 
+## 檔案說明 
 * merge_file：將data合併成一個大檔案
 * 33week：判斷event_time發生在第幾周的第幾個time_slot，每個user有0~32週，每週28個slot，需要自己手動改檔名，還有第一個user_id跟最後一個user_id
 * 924column：把33week處理完的資料轉成一個user一行共924個time_slot的形式
