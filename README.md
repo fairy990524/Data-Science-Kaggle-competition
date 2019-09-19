@@ -7,3 +7,6 @@
 * 33week：判斷event_time發生在第幾周的第幾個time_slot，每個user有0~32週，每週28個slot，需要自己手動改檔名，還有第一個user_id跟最後一個user_id
 * 924column：把33week處理完的資料轉成一個user一行共924個time_slot的形式
 * sequential_model：用處理完的資料丟進sequential model訓練得出結果
+
+## Final Rank
+
